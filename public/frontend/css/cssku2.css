@@ -1,0 +1,32 @@
+.thank-you {
+    text-align: center;
+    padding: 50px;
+    background-color: #d9d8ce;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #beb881;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+button {
+    background-color: #beb881;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: #d9d8ce;
+}
